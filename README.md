@@ -10,3 +10,8 @@ Objective:
 - Train the combined model (diffusion process + transformer) on the noisy MNIST dataset
 - Evaluate with MSE and SSIM
 - Compare the performance and visualise the attention maps
+
+Skills:
+- Python: PyTorch, torchvision, matplotlib, seaborn, tqdm, skimage
+- Deep Learning Models: Diffusion, U-Net, transformer
+- Evaluation: Mean Squared Error (MSE), Structural Similarity Index Measure (SSIM)
